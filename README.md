@@ -3,7 +3,7 @@
 
 ### Güncellendi aktif.... 
 <p align="center">
-  <img src="https://telegra.ph//file/4c86190fcbe14428c8c6b.jpg">
+  <img src="https://te.legra.ph/file/e184200a18fd3fcd015a2.jpg">
 </p> 
 
 <h3>Sürümler 🧸</h3>
@@ -13,37 +13,34 @@
 
 
 ### Komutlar Genel 🍭
-- `/oynat` - şarkı çalmak için youtube url'sine veya şarkı dosyasına yanıt verme
-- `/oynat` - istediğiniz şarkıyı çal
-- `/bul` - istediğiniz şarkıları hızlı bir şekilde indirin 
-- `/ara` - youtube'da ayrıntıları içeren videoları arama
-- `/ping`  - bot ping durumunu kontrol eder
-#### Yalnızca yöneticiler 
-- `/ver` - üyeler için extra yetki 
-- `/al` - üyeler için verilen yetki alınır (Herkes için olan komutları kullanır) 
-- `/durdur` - şarkı çalmayı duraklatma 
-- `/devam` - şarkı çalmaya devam et 
-- `/atla` - sonraki şarkıyı çal 
-- `/son` - müzik çalmayı durdurma
-- `/reload` - Yönetici listesini günceller
+- `/play` - YouTube'dan istədiyiniz mahnıyı oxuyar
+- `/song` - istədiyiniz mahnını qısa vaxtda endirər 
+- `/axtar` - youtube'da videoları axtarma
+- `/ping`  - bot pinginə baxar
+#### Yalnızca adminlər
+- `/ver` - üzvlər üçün extra yetki
+- `/al` - üzvlər üçün verilen yetki alınar (Hərkəs üçün olan komutları kullanır) 
+- `/dayandır` - mahnı oxumayı yarıda dayandırma
+- `/davam` - mahnı oxumaya davam et 
+- `/atla` - sonraki mahnını oxu
+- `/stop` - müsiqi oxumayı bitir
+- `/reload` - Admin listəsini güncəlləyər
 
 #### Grubunuza Almak için.. 
-- `/asistan` - Müzik asistanı  grubunuza katılır. 
-- `/ayril` - Müzik asistanı grubunuzu terk eder. 
+- `/asistan` - Müsiqi asistanı  qrupunuza qatılır. 
+- `/ayril` - Müsiqi asistanı qrupunuzu tərk edər. 
 
-#### Owner İçin...
+#### Owner üçün...
 - `/broadcast` - Yayın mesajı
-- `/stats` - grup istatisliği
-- `/alive` botun aktif mesajı (sudo kullanıcı içinde geçerli)
+- `/stats` - qrup istatisliği
+- `/alive` botun aktif mesajı (sudo İstifadəçi üçündə keçərli)
 <h4>🔺 Herokuya Dağıt 🔻</h4>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/amahocam/muudmusic)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/XTQ085/repohaneisleyenmusic)
 
 Get pyrogram (p)  `SESSION` buradan:
 
 [![Run on Repl.it](https://repl.it/badge/github/Makoto-XD/Session-Generator)](https://replit.com/@Makoto-XD/Session-Generator)
 
 #### Düzen tasarım
-- [#Ge͂̂͝c̨͒ͤ̕͜e̡͝ k̶̴̛ͮ͌̒̃͟͡uş̟̲͎u̼͓̭̝ͦ̂͋̈̋̔](https://t.me/mutsuz_panda)
-- 
-- İnstagram [@ama_hocaam](https://instagram.com/ama_hocaam?igshid=YmMyMTA2M2Y=)
+- [#Sahib](https://t.me/TurkNaxcivanski)
