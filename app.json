@@ -1,9 +1,9 @@
 {
   "name": "Telegram Music",
-  "logo": "https://telegra.ph//file/70b0074875aebdbf20b4f.jpg", 
+  "logo": "https://te.legra.ph/file/e184200a18fd3fcd015a2.jpg", 
   "description": "Telegram'ınızın Grup Sesli Sohbeti'nde şarkı çalmak için Açık Kaynaklı bot.",
   "keywords": ["music", "voicechat", "telegram"],
-  "repository": "https://github.com/amahocam/muudmusic",
+  "repository": "https://github.com/XTQ085/repohaneisleyenmusic",
   "stack": "container",
   "env": {
     "SESSION_NAME": {
